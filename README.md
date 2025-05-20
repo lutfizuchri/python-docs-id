@@ -5,4 +5,5 @@
 - [Python Editorial Board Page](https://python.github.io/editorial-board/)
 - [PEP 545](https://peps.python.org/pep-0545/)
 - [PEP 732](https://peps.python.org/pep-0732/)
-- [Python Docs Transifex Automations documentation](https://python-docs-transifex-automation.readthedocs.io/)
+- [Python Docs Transifex Automations Documentation](https://python-docs-transifex-automation.readthedocs.io/)
+- [Python Documentation Translations Transifex Page](https://explore.transifex.com/python-doc/)
